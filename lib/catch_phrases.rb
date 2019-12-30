@@ -13,3 +13,6 @@ def link
   result = "It's Dangerous To Go Alone! Take This."
   puts result
 end
+
+def any_phrase
+  phrase = 
