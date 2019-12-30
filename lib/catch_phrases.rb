@@ -10,4 +10,6 @@ def toadstool
 end 
 
 def link
-  result = 
+  result = 'It's Dangerous To Go Alone! Take This.'
+  puts result
+end
